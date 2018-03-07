@@ -1,0 +1,6 @@
+The modules in the Python standard library don't provide a way to upload large
+files via HTTP without having to load the entire file into memory first.
+
+poster provides support for both streaming POST requests as well as
+multipart/form-data encoding of string or file parameters
+

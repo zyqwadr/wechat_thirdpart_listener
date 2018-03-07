@@ -1,0 +1,23 @@
+{
+    "dev" : {
+        "mongodb" : {
+            "host":"localhost",
+            "port":27017,
+            "db":"wechat_thirdpart_listener",
+            "username":"admin",
+            "password":"admin"
+        },
+        "wechat_thirdpart" : {
+            "encodingAESKey":"c0f23dc00531bd78ef38c628423d5102aeabd49b5dc",
+            "token":"c0fa1bc00531bd7edf38c628449c5102aeabd49b5dc3a2a516ea6ea959d6658e",
+            "appId":"wxfcaawef9c2865sdf"
+        },
+        "tuling_apikeys":["2ca2ecd029824569b61ca498f240be34","f4693d84da394394825b115e0364ce17"]
+    }
+}
+
+
+
+
+
+
